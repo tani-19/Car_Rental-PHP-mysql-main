@@ -101,7 +101,7 @@ header("location: index.php"); //Redirecting
                                     <a href="customerlogin.php">Customer</a>
                                 </li>
                                 <li>
-                                    <a href="#"> FAQ </a>
+                                    <a href="faq/index.php"> FAQ </a>
                                 </li>
                             </ul>
                         </div>

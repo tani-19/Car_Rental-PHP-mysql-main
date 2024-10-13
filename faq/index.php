@@ -43,7 +43,7 @@
                 <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a href="/Applications/XAMPP/xamppfiles/htdocs/Car_Rental-PHP-mysql-main/index.php">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
                             <a href="#"><span class="glyphicon glyphicon-user"></span> Welcome <?php echo $_SESSION['login_client']; ?></a>
@@ -100,13 +100,13 @@
                         <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                             <ul class="nav navbar-nav">
                                 <li>
-                                    <a href="/Applications/XAMPP/xamppfiles/htdocs/Car_Rental-PHP-mysql-main/index.php">Home</a>
+                                    <a href="/../Stribon Technologies/index.php">Home</a>
                                 </li>
                                 <li>
-                                    <a href="/Applications/XAMPP/xamppfiles/htdocs/Car_Rental-PHP-mysql-main/clientlogin.php">Employee</a>
+                                    <a href="/../Stribon Technologies/clientlogin.php">Employee</a>
                                 </li>
                                 <li>
-                                    <a href="/Applications/XAMPP/xamppfiles/htdocs/Car_Rental-PHP-mysql-main/customerlogin.php">Customer</a>
+                                    <a href="/../Stribon Technologies/customerlogin.php">Customer</a>
                                 </li>
                                 <li>
                                     <a href="faq/index.html"> FAQ </a>
